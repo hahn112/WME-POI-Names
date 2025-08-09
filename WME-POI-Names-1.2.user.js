@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WME-POI-Names
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      1.21
 // @description  Deutsche Standardnamen in POI
 // @match        https://www.waze.com/*/editor*
 // @match        https://www.waze.com/editor*
@@ -9,8 +9,8 @@
 // @match        https://beta.waze.com/editor*
 // @include https://*.waze.com/editor*
 // @include https://*.waze.com/*/editor*
-// @updateURL 
-// @downloadURL 
+// @updateURL https://github.com/hahn112/WME-POI-Names/raw/refs/heads/main/WME-POI-Names-1.2.user.js
+// @downloadURL https://github.com/hahn112/WME-POI-Names/raw/refs/heads/main/WME-POI-Names-1.2.user.js
 // @grant none
 // @author hahn112
 // ==/UserScript==
