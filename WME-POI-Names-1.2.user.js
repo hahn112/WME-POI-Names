@@ -9,6 +9,8 @@
 // @match        https://beta.waze.com/editor*
 // @include https://*.waze.com/editor*
 // @include https://*.waze.com/*/editor*
+// @updateURL 
+// @downloadURL 
 // @grant none
 // @author hahn112
 // ==/UserScript==
