@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WME-POI-Names
 // @namespace    http://tampermonkey.net/
-// @version      1.21
+// @version      1.22
 // @description  Deutsche Standardnamen in POI
 // @match        https://www.waze.com/*/editor*
 // @match        https://www.waze.com/editor*
@@ -301,7 +301,7 @@
             cursor: pointer;
             user-select: none;
         `;
-        header.innerHTML = '📋 Deutsche Standardnamen';
+        header.innerHTML = 'Deutsche Standardnamen';
 
         // Content
         const content = document.createElement('div');
